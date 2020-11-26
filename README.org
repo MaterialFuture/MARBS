@@ -6,8 +6,8 @@ If you don't know what LARBS is then please refer to lukesmithxyz's GitHub repos
 ** Installation
 On an Arch based distribution as root, run the following:
 #+BEGIN_SRC bash
-curl -LO larbs.xyz/larbs.sh
-sh larbs.sh
+curl -LO https://raw.githubusercontent.com/MaterialFuture/MARBS/master/marbs.sh
+sh marbs.sh
 #+END_SRC
 ** Goals
 - Focus on creating a distraction-free environment for editing in Emacs on an Arch-based system.
@@ -17,3 +17,7 @@ sh larbs.sh
 ** Why Would I Use This?
 I don't expect others to use this, but if they do then that's awesome.
 This is made for what I want in a system so it is opinionated in most regards.
+** Useful Links
+- [[https://materialfuture.net][My Website]]
+- [[https://github.com/MaterialFuture/voidrice][My fork of voidrice]]
+- [[https://github.com/LukeSmithxyz/LARBS/blob/master/README.md][Original LARBS repo]]
