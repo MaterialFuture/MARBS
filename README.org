@@ -1,0 +1,19 @@
+#+TITLE: MaterialFuture's Auto-Rice Bootstraping Scripts (MARBS)
+#+AUTHOR: MaterialFuture
+** What Is MARBS/LARBS
+In short MARBS is an opinionated fork of LARBS revolving around EMACS rather than Vim.
+If you don't know what LARBS is then please refer to lukesmithxyz's GitHub repository https://github.com/LukeSmithxyz/LARBS/blob/master/README.md
+** Installation
+On an Arch based distribution as root, run the following:
+#+BEGIN_SRC bash
+curl -LO larbs.xyz/larbs.sh
+sh larbs.sh
+#+END_SRC
+** Goals
+- Focus on creating a distraction-free environment for editing in Emacs on an Arch-based system.
+- Utilize ratpoison as the Window Manager rather than Suckless DWM or i3
+- Build on the customizable aproach that LARBS has and make it better
+- Pull from my fork of voidrice for dotfiles https://github.com/MaterialFuture/voidrice
+** Why Would I Use This?
+I don't expect others to use this, but if they do then that's awesome.
+This is made for what I want in a system so it is opinionated in most regards.
